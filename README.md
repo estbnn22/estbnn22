@@ -51,7 +51,7 @@ Production-ready grooming appointment and admin management platform.
 
 ---
 
-### 🔹 **Notes App — Trello-Style Kanban Notes**
+### 🔹 **Notes App**
 Drag-and-drop notebook system with categories, filtering, and importance colors.
 
 **Tech:** Next.js, Prisma, PostgreSQL  
